@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-23T10:12:28.757165+00:00", "status": "DENIED_POLICY", "user_email": "alice.dev@company.com", "target_environment": "aws-production", "details": "Justification too short for production access."}
+{"timestamp": "2026-10-23T10:15:21.462781+00:00", "status": "APPROVED", "user_email": "alice.dev@company.com", "target_environment": "aws-production", "details": "Temporary Zero-Trust credentials generated successfully."}
+{"timestamp": "2026-10-23T10:16:13.036666+00:00", "status": "APPROVED", "user_email": "alice.dev@company.com", "target_environment": "aws-production", "details": "Temporary Zero-Trust credentials generated successfully."}
